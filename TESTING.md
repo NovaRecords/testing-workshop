@@ -1,7 +1,7 @@
 # Testing Documentation
 
 ## Test Coverage Report
-[Platzhalter für Screenshot des Coverage Reports - Bitte fügen Sie den Screenshot hier ein]
+![Test Coverage Report](./images/coverage.png.png)
 
 ## Entdeckte Fehler und Edge Cases
 
@@ -61,4 +61,4 @@ Die Tests sind nach dem AAA-Pattern (Arrange-Act-Assert) strukturiert und in log
 
 ## GitHub Actions
 
-[Platzhalter für Screenshot der erfolgreichen GitHub Action - Bitte fügen Sie den Screenshot hier ein]
+![Successful GitHub Action](./images/githubaction.png.png)
