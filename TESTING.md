@@ -1,7 +1,7 @@
 # Testing Documentation
 
 ## Test Coverage Report
-![Test Coverage Report](./images/coverage.png.png)
+![Test Coverage Report](./images/coverage.png)
 
 ## Entdeckte Fehler und Edge Cases
 
@@ -61,4 +61,4 @@ Die Tests sind nach dem AAA-Pattern (Arrange-Act-Assert) strukturiert und in log
 
 ## GitHub Actions
 
-![Successful GitHub Action](./images/githubaction.png.png)
+![Successful GitHub Action](./images/githubaction.png)
